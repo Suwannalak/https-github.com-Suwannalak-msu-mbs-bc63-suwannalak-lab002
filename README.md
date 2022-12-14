@@ -1,1 +1,1 @@
-# https-github.com-Suwannalak-msu-mbs-bc63-suwannalak-lab002
+msu-mbs-bc63-suwannalak-lab002
